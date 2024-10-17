@@ -108,6 +108,3 @@ def bonus(email, name = "", age = None, role = "guest"):
 bonus("bob@mail.fr", role="admin")
 
 
-
-
-
